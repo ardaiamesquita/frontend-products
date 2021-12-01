@@ -1,12 +1,11 @@
-import React from 'react';
-import Welcome from './componentes/Welcome';
 import './App.css';
+import SigUp from './pages/SigUp';
 
 function App(){
     return(
-        <>
-            <Welcome name="Jean"/>
-        </>
+        <Box>
+            testing
+        </Box>
     );
 }
 
